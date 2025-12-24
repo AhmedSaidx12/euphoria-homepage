@@ -1,6 +1,6 @@
-# Euphoria - Home Page
+# Euphoria - Clothing Store Home Page
 
-This is the responsive homepage for **Euphoria**, built using **Tailwind CSS**.  
+This is the responsive homepage for **Euphoria**, a clothing store website, built using **Tailwind CSS**.  
 
 ## Features
 - Fully responsive design
